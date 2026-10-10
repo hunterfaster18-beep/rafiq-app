@@ -1,0 +1,5 @@
+flutter create --org com.yourname rafiq_habit_tracker
+Replace pubspec.yaml and lib/main.dart with the supplied files.
+flutter pub get
+flutter run
+flutter build appbundle --release
